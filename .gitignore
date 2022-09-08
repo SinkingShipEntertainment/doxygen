@@ -20,3 +20,7 @@
 tags
 
 .idea
+
+# SSE
+_rez_build
+.vscode
